@@ -26,4 +26,4 @@ async def dmail(ctx,*,message,):
                 continue
            else:
                break
-bot.run("TOKEN")               
+bot.run("NzQ0NDAyNzc3Mjc4NTEzMjAz.XzitHA.jtqsVF6yqGbfr0vaaAk-OPay0GI")               
