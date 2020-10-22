@@ -24,22 +24,22 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with LOVE YOU MOM DAD"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Created by SAVAN"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with R€FL€X ॥乛♥P⃠𝙖 𝙧 𝙖 𝙢#0005"))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with My SAVAN PARAM"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with all members"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with  LEGIT MIND"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with  Trivia Master||Bots"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with  SAURABH SHANI DAGUR "))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with  my friends"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Love"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with my server"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="With ALLEN TRIVIA "))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with all Trivia Games"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with TRIVIA EMPIRE"))
@@ -48,10 +48,10 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with your Love😍!"))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with SERIOUS MIND"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with SPIDER TRIVIA"))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=2,name="with love all member "))
+    	await bot.change_presence(activity=discord.Activity(type=2,name="with my CHALLENGE PHOENIX"))
     	await asyncio.sleep(5)
 	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with  TRIVIA COMMUNITY"))
@@ -71,4 +71,4 @@ async def ping(ctx):
     # Send it to the user
     await ctx.send(latency)
     
-bot.run("NzIwOTU3MjAyMjUyNDMxNDA3.X3s0EQ.LNBqu4K-nUYrR6hoPd6kJE3uevc",bot=False)
+bot.run("NjYwMzM3MzQyMDMyMjQ4ODMy.X4xc9g.XML7C0hxrePba_yvU5zapQi3e6U",bot=False)
