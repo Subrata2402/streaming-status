@@ -36,7 +36,7 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with  my all friends !"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with all Servers !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with SPIDER TRIVIA !"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with all Trivia Games !"))
@@ -48,7 +48,7 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with your Love😍!"))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with SPIDER TRIVIA !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with HQ Trivia !"))
     	await asyncio.sleep(5)
 	
     	await bot.change_presence(activity=discord.Activity(type=2,name="with CHALLENGE PHOENIX !"))
