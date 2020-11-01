@@ -41,9 +41,6 @@ async def on_ready():
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with all Trivia Games !"))
     	await asyncio.sleep(5)
-
-        await bot.change_presence(activity=discord.Activity(type=1,name="with want Vedantu life DM me !"))
-    	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with TRIVIA EMPIRE !"))
     	await asyncio.sleep(5)
