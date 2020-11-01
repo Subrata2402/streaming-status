@@ -21,19 +21,19 @@ async def on_ready():
     print("https://discord.gg/2degbQMAxU")
     print("Everything is okay.")
     while True:
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with LOVE YOU MOM DAD"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with TRIVIA || DANGER★᭄ꦿ᭄"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with R€FL€X ॥乛♥P⃠𝙖 𝙧 𝙖 𝙢#0005"))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with all members !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with want Vedantu life DM me !"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with  Trivia Master || Bots !"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with  my all friends !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with  want HQ Life in 1.2rs DM me !"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with SPIDER TRIVIA || Bot !"))
