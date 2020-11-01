@@ -16,10 +16,10 @@ BOT_OWNER_ROLE="owner" #change which role you need!
 @bot.event
 async def on_ready():
     print('Online')
-    print("Created by savan")
-    print("SERIOUS MIND:")
-    print("https://discord.gg/an8aCu")
-    print("Everything's all ready to go~")
+    print("Made by Subrata#3297")
+    print("DANGER TRIVIA || BOTS:")
+    print("https://discord.gg/2degbQMAxU")
+    print("Everything is okay.")
     while True:
     	await bot.change_presence(activity=discord.Activity(type=1,name="with LOVE YOU MOM DAD"))
     	await asyncio.sleep(5)
@@ -57,7 +57,7 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with  TRIVIA COMMUNITY !"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name=f'''{len(bot.guilds)} servers'''))
+    	await bot.change_presence(activity=discord.Activity(type=1, name=f'''{len(bot.guilds)} servers'''))
     	await asyncio.sleep(5)
 
 @bot.command(name="hi")
