@@ -30,7 +30,7 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with all members !"))
     	await asyncio.sleep(5)
 
-        await bot.change_presence(activity=discord.Activity(type=1,name="with want HQ Life in 1.2rs DM me !"))
+        await bot.change_presence(activity=discord.Activity(type=1,name="with want HQ Life DM me !"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with  Trivia Master || Bots !"))
