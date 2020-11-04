@@ -33,25 +33,25 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with  Trivia Master || Bots !"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with  want HQ Life in 1.2rs DM me !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with  all trivia games 🤑 !"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with SPIDER TRIVIA || Bot !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with 𒆕 S₱I∂ΞɌ ║Եɾíѵíα || Bot !"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with all Trivia Games !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with all Servers !"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with TRIVIA EMPIRE !"))
     	await asyncio.sleep(5)
 
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with your Love😍!"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with your Love 😍 "))
     	await asyncio.sleep(5)
 	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with DANGER TRIVIA || BOTS !"))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with CHALLENGE || PHOENIX !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Phoenix | Challenge !"))
     	await asyncio.sleep(5)
 	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with  Trivia | Community !"))
