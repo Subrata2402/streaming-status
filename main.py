@@ -30,13 +30,13 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with want HQ life DM me !"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with  "))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Adventures !"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with  all trivia games 🤑 !"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Love Mom & Dad"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Love Mom & Dad ❤️"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with all Servers !"))
@@ -54,7 +54,7 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with Bot Developer !"))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with My goodness !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with My Goodness !"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1, name=f'''{len(bot.guilds)} servers'''))
