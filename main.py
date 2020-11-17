@@ -21,28 +21,28 @@ async def on_ready():
     print("https://discord.gg/2degbQMAxU")
     print("Everything is okay.")
     while True:
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with TRIVIA || DANGER★᭄ꦿ᭄"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Friends & Family"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with R€FL€X ॥乛♥P⃠𝙖 𝙧 𝙖 𝙢#0005"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Prabhash#2163"))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with want Vedantu life DM me !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with want HQ life DM me !"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with  Trivia Master || Bots !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with  "))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with  all trivia games 🤑 !"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with 𒆕 S₱I∂ΞɌ ║Եɾíѵíα || Bot !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Love Mom & Dad"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with all Servers !"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with TRIVIA EMPIRE !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with TRIVIA EMPIRE OP!"))
     	await asyncio.sleep(5)
 
     	await bot.change_presence(activity=discord.Activity(type=1,name="with your Love 😍 "))
@@ -51,10 +51,10 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with DANGER TRIVIA || BOTS !"))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Phoenix | Challenge !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Bot Developer !"))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with  Trivia | Community !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with My goodness !"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1, name=f'''{len(bot.guilds)} servers'''))
