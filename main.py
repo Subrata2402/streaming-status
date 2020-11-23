@@ -24,10 +24,10 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with Friends & Family"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Prabhash#2163"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Bikash"))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with want HQ life DM me !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with animals"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with Adventures !"))
@@ -71,4 +71,4 @@ async def ping(ctx):
     # Send it to the user
     await ctx.send(latency)
     
-bot.run("NzQ5NTM2NDAxOTEzMTUxNDkw.X7OyIw.5vM11rUd1d_iIchmFdMF2C3lGUQ",bot=False)
+bot.run("NjM1NDQ2Njc5MDA0NTEyMjU4.X7tCaw.IAMiARYQndUUISzhFnyScTw5f7M",bot=False)
