@@ -21,7 +21,7 @@ async def on_ready():
     print("https://discord.gg/2degbQMAxU")
     print("Everything is okay.")
     while True:
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Friends & Family"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with members"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with Bikash"))
@@ -30,7 +30,7 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with animals"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Adventures !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with trivia"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with  all trivia games 🤑 !"))
@@ -42,7 +42,7 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with all Servers !"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with TRIVIA EMPIRE OP!"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with happy"))
     	await asyncio.sleep(5)
 
     	await bot.change_presence(activity=discord.Activity(type=1,name="with your Love 😍 "))
@@ -51,7 +51,7 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with DANGER TRIVIA || BOTS !"))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Bot Developer !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with discord 🤖"))
     	await asyncio.sleep(5)
 	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with My Goodness !"))
@@ -71,4 +71,4 @@ async def ping(ctx):
     # Send it to the user
     await ctx.send(latency)
     
-bot.run("NjM1NDQ2Njc5MDA0NTEyMjU4.X7tCaw.IAMiARYQndUUISzhFnyScTw5f7M",bot=False)
+bot.run("NjM1NDQ2Njc5MDA0NTEyMjU4.X7tG6A.Ul8jJGh24OXGhx01e1T2X6ZIpPo",bot=False)
