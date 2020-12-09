@@ -21,44 +21,44 @@ async def on_ready():
     print("https://discord.gg/2degbQMAxU")
     print("Everything is okay.")
     while True:
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with members"))
-    	await asyncio.sleep(5)
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Love ♥️ with all members !"))
+    	await asyncio.sleep(2)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Bikash"))
-    	await asyncio.sleep(5)
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with TRIVIA || DANGER★᭄ꦿ᭄"))
+    	await asyncio.sleep(2)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with animals"))
-    	await asyncio.sleep(5)
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with My Family !"))
+    	await asyncio.sleep(2)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with trivia"))
-    	await asyncio.sleep(5)
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Love ♥️"))
+    	await asyncio.sleep(2)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with  all trivia games 🤑 !"))
-    	await asyncio.sleep(5)
+    	await asyncio.sleep(2)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with Love Mom & Dad ❤️"))
-    	await asyncio.sleep(5)
+    	await asyncio.sleep(2)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with all Servers !"))
-    	await asyncio.sleep(5)
+    	await asyncio.sleep(2)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with happy"))
-    	await asyncio.sleep(5)
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Dm for HQ Life ♥️"))
+    	await asyncio.sleep(2)
 
     	await bot.change_presence(activity=discord.Activity(type=1,name="with your Love 😍 "))
-    	await asyncio.sleep(5)
+    	await asyncio.sleep(2)
 	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with DANGER TRIVIA || BOTS !"))
-    	await asyncio.sleep(5)
+    	await asyncio.sleep(2)
 	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with discord 🤖"))
-    	await asyncio.sleep(5)
+    	await asyncio.sleep(2)
 	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with My Goodness !"))
-    	await asyncio.sleep(5)
+    	await asyncio.sleep(2)
     	
     	await bot.change_presence(activity=discord.Activity(type=1, name=f'''{len(bot.guilds)} servers'''))
-    	await asyncio.sleep(5)
+    	await asyncio.sleep(2)
 
 @bot.command(name="hi")
 async def ping(ctx):
