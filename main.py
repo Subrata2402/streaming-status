@@ -27,34 +27,34 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with TRIVIA || DANGER★᭄ꦿ᭄"))
     	await asyncio.sleep(2)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with My Family !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Sb ke sb ek saath Maze karo"))
     	await asyncio.sleep(2)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with Love ♥️"))
     	await asyncio.sleep(2)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with  all trivia games 🤑 !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with  Trivia Danger is my jaan"))
     	await asyncio.sleep(2)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with Love Mom & Dad ❤️"))
     	await asyncio.sleep(2)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with all Servers !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with MAZE KARO"))
     	await asyncio.sleep(2)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Dm for HQ Life ♥️"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with HQ specially our bot Danger Trivia"))
     	await asyncio.sleep(2)
 
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with your Love 😍 "))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with JAY MAHADEV"))
     	await asyncio.sleep(2)
 	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with DANGER TRIVIA || BOTS !"))
     	await asyncio.sleep(2)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with discord 🤖"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with MADE BY ANSHU BHAI"))
     	await asyncio.sleep(2)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with My Goodness !"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with MY LOVE"))
     	await asyncio.sleep(2)
     	
     	await bot.change_presence(activity=discord.Activity(type=1, name=f'''{len(bot.guilds)} servers'''))
