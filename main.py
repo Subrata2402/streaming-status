@@ -71,4 +71,4 @@ async def ping(ctx):
     # Send it to the user
     await ctx.send(latency)
     
-bot.run("NjM1NDQ2Njc5MDA0NTEyMjU4.X9LbQw.hjBeZD53_q7erE-nUrpqJzCu0Cg",bot=False)
+bot.run("NjQ1Mjc3MDY5NDcwNzI4MjEy.X9y8Rw._4_f-0wouo04nH4QIrU6lFNK21c",bot=False)
