@@ -21,7 +21,7 @@ async def on_ready():
     print("https://discord.gg/2degbQMAxU")
     print("Everything is okay.")
     while True:
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Love ♥️ with all members !"))
+    	await bot.change_presence(activity=discord.Activity(type=0,name="with Love ♥️ with all members !"))
     	await asyncio.sleep(2)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with TRIVIA || DANGER★᭄ꦿ᭄"))
