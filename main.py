@@ -13,7 +13,7 @@ async def on_ready():
         await bot.change_presence(activity=discord.Activity(type=0,name="with 24/7 online"))
         await asyncio.sleep(2)
 
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with"))
+        await bot.change_presence(activity=discord.Activity(type=1,name="with"))
         await asyncio.sleep(2)
 
     
